@@ -1,0 +1,7 @@
+*.csv
+/input/book_test.parquet
+/input/book_train.parquet
+/input/trade_test.parquet
+/input/trade_train.parquet
+
+/copy
