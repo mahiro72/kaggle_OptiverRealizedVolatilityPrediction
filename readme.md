@@ -35,3 +35,8 @@ score = 0.98
 time_idで分けたものの6列を特徴量とした  
 kfoldで交差検証したところscoreは0.26だった  
 public scoreは0.52071
+- xgboost model var.2  
+row_id　の mean median std を特徴量に追加した  
+scoreは0.82 ....  
+過学習しているのか?原因ははっきりわからない  
+ハイパーパラメータのチューニングが必要かも  
