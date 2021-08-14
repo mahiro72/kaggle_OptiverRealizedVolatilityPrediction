@@ -28,3 +28,10 @@ ___
 - 前日に引き続き同じeda  
 LinearRegressionのモデルで分析  
 score = 0.98
+
+### 2021/08/14
+- 最初のxgboostモデル作成
+- mean median std を stock_idで分けたものと  
+time_idで分けたものの6列を特徴量とした  
+kfoldで交差検証したところscoreは0.26だった  
+public scoreは0.52071
