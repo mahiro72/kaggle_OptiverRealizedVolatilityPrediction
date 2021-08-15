@@ -6,7 +6,6 @@ ___
 ### 2021/08/09
 - リポジトリ作成
 
-___
 
 ### 2021/08/10
 - edaとコンペの概要把握  
@@ -40,3 +39,7 @@ row_id　の mean median std を特徴量に追加した
 scoreは0.82 ....  
 過学習しているのか?原因ははっきりわからない  
 ハイパーパラメータのチューニングが必要かも  
+
+### 2021/08/15
+- 新たな特徴量の作成,lgbm  
+[参考にしたNotebook](https://www.kaggle.com/tommy1028/lightgbm-starter-with-feature-engineering-idea)
