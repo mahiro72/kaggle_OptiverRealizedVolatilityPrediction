@@ -43,3 +43,10 @@ scoreは0.82 ....
 ### 2021/08/15
 - 新たな特徴量の作成,lgbm  
 [参考にしたNotebook](https://www.kaggle.com/tommy1028/lightgbm-starter-with-feature-engineering-idea)
+- logreturn  
+time_idでguroupbyしてpriceまたはwapのlog.diffを返したもの  
+なのでtime_idの種類分Naがある
+
+### 2021/08/16
+- 先日のNotebookを引き続き進めた。  
+残るはlgbmのモデルづくり
