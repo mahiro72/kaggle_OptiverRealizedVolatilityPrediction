@@ -50,3 +50,12 @@ time_idでguroupbyしてpriceまたはwapのlog.diffを返したもの
 ### 2021/08/16
 - 先日のNotebookを引き続き進めた。  
 残るはlgbmのモデルづくり
+
+### 2021/08/17
+- お休み
+
+### 2021/08/18
+- 一昨日のNotebookを引き続き進めた。  
+とりあえずlgbmのNotebookは終了した  
+これ以上どのように特徴量をいじればいいのかわからない...
+- いったん整理するために[Optiver取り組む前準備・用語の説明](https://www.kaggle.com/takiyu/japanese-optiver)このNotebookを読んでOptiver.mdにまとめた
