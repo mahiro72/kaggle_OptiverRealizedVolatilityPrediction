@@ -59,3 +59,7 @@ time_idでguroupbyしてpriceまたはwapのlog.diffを返したもの
 とりあえずlgbmのNotebookは終了した  
 これ以上どのように特徴量をいじればいいのかわからない...
 - いったん整理するために[Optiver取り組む前準備・用語の説明](https://www.kaggle.com/takiyu/japanese-optiver)このNotebookを読んでOptiver.mdにまとめた
+
+
+### 2021/08/19 ~ 
+- 競技プログラミングと数学の勉強に集中したいのでしばらくお休み...
